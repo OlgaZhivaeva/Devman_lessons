@@ -17,7 +17,7 @@ def main():
     }
 
     params = {
-        'nMmuTqu': '',
+        'nTqu': '',
         'lang': 'ru'
     }
 
